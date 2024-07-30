@@ -1,4 +1,4 @@
-# Obsidian Stylist
+# _Stylist_
 
 _Stylist_ is a plugin for Obsidian that allows to add classes and styles on markdown.
 
