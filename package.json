@@ -4,7 +4,7 @@
 		"node": ">=12.0.0 "
 	},
 	"version": "0.0.5",
-	"description": "Obsidian plugin that allows to add classes and styles on markdown blocks",
+	"description": "Simply add classes and styles on markdown blocks.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
@@ -17,7 +17,7 @@
 		"obsidian",
 		"style"
 	],
-	"author": "Mikhail Menshikov <ainop@ya.ru>",
+	"author": "plague",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^16.11.6",

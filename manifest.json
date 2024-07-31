@@ -1,10 +1,9 @@
 {
-	"id": "obsidian-stylist",
-	"name": "Obsidian Stylist",
+	"id": "stylist",
+	"name": "Stylist.css",
 	"version": "0.0.5",
 	"minAppVersion": "0.15.0",
-	"description": "Obsidian plugin that allows to add classes and styles on markdown blocks",
-	"author": "Mikhail Menshikov <ainop@ya.ru>",
-	"authorUrl": "https://ixth.net/",
+	"description": "Simply add classes and styles on markdown blocks. A fork that works!",
+	"author": "plague",
 	"isDesktopOnly": false
 }
